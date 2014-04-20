@@ -21,4 +21,4 @@ print(myString + " " + myString2)
 
 # Length of string
 length = len(myString)
-print(length)
+print 'The length of mystring',  length
