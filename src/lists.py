@@ -1,6 +1,6 @@
 #!/usr/bin
 
-# Lists
+# List
 food = ["bread", "mayo", "turkey", "cheese"]
 
 # Print list
