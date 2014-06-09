@@ -3,8 +3,8 @@
 """
 Tuples are similar to list
 except they are immutable.
-Once you setup a tuple
-there is now way to change .
+Once you setup a tuple,
+there is no way to change .
 Other wise tuples work
 identically to lists.
 """

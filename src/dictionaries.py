@@ -21,3 +21,4 @@ del dictor['person']
 
 # Add key
 dictor['address'] = 2134
+print(dictor)
