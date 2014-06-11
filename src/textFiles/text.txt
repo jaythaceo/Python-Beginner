@@ -1,2 +1,33 @@
-Jason Brooks was here tonight programming python tutorials. Wondering if this
-text file is as useful as I think for this example.
+ “Barbarism of the African Race.
+
+
+   The African race is a race of barbarians, and civilization to that
+race would be an artificial state of existence.[3] The vestiges of
+barbarism characterize the African, in his normal state. The latent
+principle of cannibalism, lurks, in dormant energy, within the
+very core of his being, and constitutes a prominent characteristic
+of his animal existence. The economy and order of nature is no less
+marked in the carnivorous than in the herbivorous mammalia and quad-
+rumana; and although their physical distinctions are not always so
+marked as to render apparent, to superficial observation, the uses
+and functions of their entire organism, yet science has been a
+tolerably faithful interpreter of cause and effect, and has not
+failed to recognize those organic qualities, and the structural
+adaptability of the African race, which qualify it for its mission as
+the representative of barbaric fury and degradation, and the type, in
+human form, of that chaotic element of self-annihilation, which nature
+has kindly restricted to the fewest number of the lowest orders of
+animated being.[4] The inhabitants of Southern and Central Africa, from
+whence our slaves are drawn, the Feejeean, the Caffrarian, the New-
+Zealander, and the Hottentot, “are stamped by nature with the unmistakable
+character of unmitigated barbarism, and absolute antagonism to
+civilization; and their improvement when brought in contact with
+civilization is so slow as almost to escape detection. Indeed it is doubtful
+whether the arts of European and American civilization have succeeded in so
+fascinating the African race among us as to warrant the expectation of
+permanency to the colony of Liberia, except from the light reflected by
+constant and continued emigration; and it is believed, by many shrewd
+philanthropists whose efforts have been long devoted to the cause of
+African colonization, that should emigration to the colony cease, the
+Negroes there would immediately relapse into their former habits and
+customs, and ultimately resume their original character of cannibals.”
