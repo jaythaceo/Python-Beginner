@@ -23,6 +23,6 @@ class Cukoo(Bird):
 if __name__ == "__main__":
     parrot = Parrot()
     cuckoo = Cukoo()
-    
+
     parrot.do_call()
     cuckoo.do_call()
