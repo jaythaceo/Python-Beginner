@@ -14,6 +14,3 @@ while True:
     timestr = time.ctime(time.time()) + "\r\n"
     client.send(timestr.encode('ascii'))
     client.close()
-
-
-
