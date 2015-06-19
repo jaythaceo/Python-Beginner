@@ -1,7 +1,5 @@
-Python-Beginner
+Python-ToolSet
 ===============
-
-Python tutorials
 
 <h2>Algorithms</h2>
 <p>Calculating with dictionaires</p>
