@@ -1,4 +1,4 @@
-#!/usr/bi
+#!/usr/bin
 
 # Sets
 basket = ['apple', 'orange', 'bannana']

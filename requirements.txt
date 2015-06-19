@@ -1,7 +1,0 @@
-numpy
-networkx
-twitter
-matplotlib
-scipy
-pylab
-requests
