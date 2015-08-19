@@ -1,0 +1,64 @@
+[Sun Nov 10 03:38:07 2013] [notice] Digest: generating secret for digest authentication ...
+[Sun Nov 10 03:38:07 2013] [notice] Digest: done
+[Sun Nov 10 03:38:07 2013] [notice] Apache/2.2.15 (Unix) DAV/2 PHP/5.3.3 configured -- resuming normal operations
+[Sun Nov 10 04:52:18 2013] [error] [client 188.138.27.17] Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Nov 10 04:52:18 2013] [error] [client 188.138.27.17] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Nov 10 04:52:18 2013] [error] [client 188.138.27.17] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Nov 10 04:52:18 2013] [error] [client 188.138.27.17] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sun Nov 10 04:52:19 2013] [error] [client 188.138.27.17] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Sun Nov 10 04:52:19 2013] [error] [client 188.138.27.17] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Nov 10 05:36:27 2013] [error] [client 210.149.29.182] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Nov 10 10:17:47 2013] [error] [client 66.249.73.146] File does not exist: /var/www/html/iogtivupqbygz.html
+[Sun Nov 10 11:19:04 2013] [error] [client 92.240.68.153] request failed: error reading the headers
+[Mon Nov 11 01:17:33 2013] [error] [client 188.143.232.153] File does not exist: /var/www/html/components
+[Mon Nov 11 01:43:36 2013] [error] [client 213.183.59.3] script not found or unable to stat: /var/www/cgi-bin/php
+[Mon Nov 11 12:36:44 2013] [error] [client 66.249.73.150] File does not exist: /var/www/html/jtdqxvlzj.html
+[Tue Nov 12 09:27:26 2013] [error] [client 173.193.38.234] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /
+[Tue Nov 12 16:27:46 2013] [error] [client 217.12.199.142] script '/var/www/html/admin.php' not found or unable to stat
+[Tue Nov 12 16:27:46 2013] [error] [client 217.12.199.142] File does not exist: /var/www/html/administrator
+[Tue Nov 12 16:27:47 2013] [error] [client 217.12.199.142] File does not exist: /var/www/html/administrator
+[Tue Nov 12 16:27:47 2013] [error] [client 217.12.199.142] script '/var/www/html/wp-login.php' not found or unable to stat
+[Tue Nov 12 23:34:05 2013] [error] [client 24.143.99.118] File does not exist: /var/www/html/HNAP1, referer: http://209.20.69.216/
+[Wed Nov 13 01:56:38 2013] [error] [client 67.201.9.213] File does not exist: /var/www/html/HNAP1, referer: http://209.20.69.216/
+[Wed Nov 13 08:39:32 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/w00tw00t.at.blackhats.romanian.anti-sec:)
+[Wed Nov 13 08:39:32 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/phpMyAdmin
+[Wed Nov 13 08:39:32 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/phpmyadmin
+[Wed Nov 13 08:39:32 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/pma
+[Wed Nov 13 08:39:35 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/MyAdmin
+[Wed Nov 13 08:39:35 2013] [error] [client 192.96.206.225] script '/var/www/html/scripts/setup.php' not found or unable to stat
+[Wed Nov 13 08:39:35 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/admin
+[Wed Nov 13 08:39:36 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/admin
+[Wed Nov 13 08:39:36 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/admin
+[Wed Nov 13 08:39:36 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/db
+[Wed Nov 13 08:39:36 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/dbadmin
+[Wed Nov 13 08:39:36 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/myadmin
+[Wed Nov 13 08:39:36 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/mysql
+[Wed Nov 13 08:39:36 2013] [error] [client 192.96.206.225] File does not exist: /var/www/html/mysqladmin
+[Wed Nov 13 08:50:30 2013] [error] [client 174.120.145.138] script not found or unable to stat: /var/www/cgi-bin/php
+[Wed Nov 13 08:50:30 2013] [error] [client 174.120.145.138] script not found or unable to stat: /var/www/cgi-bin/php5
+[Wed Nov 13 08:50:30 2013] [error] [client 174.120.145.138] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Wed Nov 13 08:50:30 2013] [error] [client 174.120.145.138] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Wed Nov 13 08:50:30 2013] [error] [client 174.120.145.138] script not found or unable to stat: /var/www/cgi-bin/php4
+[Wed Nov 13 13:04:40 2013] [error] [client 66.249.73.232] File does not exist: /var/www/html/photo
+[Wed Nov 13 13:05:02 2013] [error] [client 66.249.73.232] File does not exist: /var/www/html/photo
+[Wed Nov 13 14:48:06 2013] [error] [client 65.79.201.84] File does not exist: /var/www/html/HNAP1, referer: http://209.20.69.216/
+[Wed Nov 13 19:07:38 2013] [error] [client 50.142.202.45] File does not exist: /var/www/html/HNAP1, referer: http://209.20.69.216/
+[Thu Nov 14 03:49:17 2013] [error] [client 218.53.55.187] File does not exist: /var/www/html/w00tw00t.at.blackhats.romanian.anti-sec:)
+[Thu Nov 14 03:49:18 2013] [error] [client 218.53.55.187] File does not exist: /var/www/html/phpMyAdmin
+[Thu Nov 14 03:49:18 2013] [error] [client 218.53.55.187] File does not exist: /var/www/html/phpmyadmin
+[Thu Nov 14 03:49:18 2013] [error] [client 218.53.55.187] File does not exist: /var/www/html/pma
+[Thu Nov 14 03:49:19 2013] [error] [client 218.53.55.187] File does not exist: /var/www/html/myadmin
+[Thu Nov 14 03:49:19 2013] [error] [client 218.53.55.187] File does not exist: /var/www/html/MyAdmin
+[Thu Nov 14 03:49:20 2013] [error] [client 218.53.55.187] script '/var/www/html/scripts/setup.php' not found or unable to stat
+[Thu Nov 14 07:15:31 2013] [error] [client 202.158.21.54] File does not exist: /var/www/html/administrator, referer: http://clinical-security.com/administrator/index.php
+[Thu Nov 14 07:30:07 2013] [error] [client 188.143.232.173] File does not exist: /var/www/html/components
+[Thu Nov 14 23:36:56 2013] [error] [client 216.86.102.210] File does not exist: /var/www/html/HNAP1, referer: http://209.20.69.216/
+[Fri Nov 15 03:20:00 2013] [error] [client 181.48.82.162] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+[Fri Nov 15 11:58:46 2013] [error] [client 94.102.53.226] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Nov 16 01:09:16 2013] [error] [client 94.228.220.68] File does not exist: /var/www/html/sites/all/modules, referer: http://google.com
+[Sat Nov 16 03:05:52 2013] [error] [client 58.61.152.123] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Nov 16 08:34:00 2013] [error] [client 94.228.220.68] File does not exist: /var/www/html/sites/all/modules, referer: http://google.com
+[Sun Nov 17 01:37:10 2013] [error] [client 94.102.63.245] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Nov 17 02:02:23 2013] [error] [client 98.214.183.105] File does not exist: /var/www/html/HNAP1, referer: http://209.20.69.216/
+[Sun Nov 17 03:14:06 2013] [notice] SIGHUP received.  Attempting to restart
+httpd: Could not reliably determine the server's fully qualified domain name, using 209.20.69.216 for ServerName
