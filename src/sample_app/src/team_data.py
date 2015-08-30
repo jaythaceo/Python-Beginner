@@ -7,7 +7,12 @@ html_page = urllib.urlopen(url_page['page1']).read()
 
 soup = BeautifulSoup(html_page)
 links = soup.findAll("a")
-data_store = open('data_store.html', "w")
 
-data_store.write(html_page)
-data_store.close()
+for i in links:
+  changer = i
+
+
+changer = str(links)
+files = open("newfile.txt", "w")
+files.write(changer)
+files.close()
