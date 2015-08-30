@@ -1,5 +1,9 @@
+from bs4 import BeautifulSoup
+import urllib
 
-import requests
-import re
+url_page = {'page1': 'http://www.utexas.edu/world/univ/alpha/', 'page2': 'http://cohenbanking.com/'}
 
-data = requests.get("http://espn.go.com/nfl/statistics/player/_/stat/passing/sort/passingYards/year/2014/seasontype/2")
+html_page = urllib.urlopen(url_page['page2']).read()
+
+soup = BeautifulSoup(html_page)
+
