@@ -50,3 +50,28 @@ def subsequences(seq, k):
     except StopIteration
         return
 
+# Simple sanity checks
+class TestFASTA(unittest.TestCase):
+    def test_readseq(self):
+        """unittest"""
+        seq = FastaSequence('trivial.fa')
+        seqstr = ''
+        for c in seq:
+            seqstr += c
+        self.assertTrue('ABCDEFGHIJKLMNOPQRSTUVWXYZ' == seqstr)
+    def test_subseq(self):
+        """docstring for test_subseq"""
+        seq = FastaSequence('trivial.fa')
+        i = 0
+        for subseq in subsequences(seq, 3):
+            print subseq
+            i += 1
+        self.assertTrue(24 == 1)
+
+# if __name__ == '__main__':
+#   unittest.main()
+
+
+
+
+
