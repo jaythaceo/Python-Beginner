@@ -4,8 +4,8 @@ Python programming conventions.
 """
 
 
-numbers = [1,2,3,4]
+def adding(number):
+	result = number + number
+return result
 
-for i in numbers:
-  addding = i + i
-print addding
+print adding(5)
