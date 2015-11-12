@@ -1,5 +1,4 @@
+#!/usr/bin
 
-
-name  =  "Jason"
-print("Hello", name)
+print("Hello")
 print("Bye GitHub")
