@@ -1,7 +1,7 @@
 import facebook
 import json
 
-ACCESS_TOKEN = 'CAACEdEose0cBAHQDQBwtJKdZB1iH469ctCW1x2KLXplhzWBPHJxryWcllhsoOrgaeZBpTZBXgfteo5UzSlLX1J999ypBAtiAZAAMg1C4icqEtopcsZCq1m19YxnBiqenzVx0leCbmWzeaN0SPBpXW310z91I2q4UszBNUsEd0nqjF0aWViQyLaKf8D9HxVbhjiKeeyZCFijCLM2Q9i7TtI'
+ACCESS_TOKEN = ''
 
 # A helper function to pretty print Python objects as json
 

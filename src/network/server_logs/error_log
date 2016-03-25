@@ -1,0 +1,52 @@
+[Sun Dec 08 03:38:07 2013] [notice] Digest: generating secret for digest authentication ...
+[Sun Dec 08 03:38:07 2013] [notice] Digest: done
+[Sun Dec 08 03:38:08 2013] [notice] Apache/2.2.15 (Unix) DAV/2 PHP/5.3.3 configured -- resuming normal operations
+[Sun Dec 08 05:14:12 2013] [error] [client 99.253.72.83] File does not exist: /var/www/html/HNAP1, referer: http://209.20.69.216/
+[Sun Dec 08 15:03:57 2013] [error] [client 66.249.74.6] File does not exist: /var/www/html/lkukbsxif.html
+[Sun Dec 08 16:16:45 2013] [error] [client 89.136.120.205] Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Dec 08 16:16:46 2013] [error] [client 89.136.120.205] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Dec 08 16:16:46 2013] [error] [client 89.136.120.205] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Dec 08 16:16:46 2013] [error] [client 89.136.120.205] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Dec 08 16:16:47 2013] [error] [client 89.136.120.205] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sun Dec 08 16:16:47 2013] [error] [client 89.136.120.205] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Mon Dec 09 05:02:33 2013] [error] [client 66.249.74.187] File does not exist: /var/www/html/favicon.ico
+[Mon Dec 09 15:53:51 2013] [error] [client 75.52.143.137] File does not exist: /var/www/html/HNAP1, referer: http://209.20.69.216/
+[Mon Dec 09 18:58:12 2013] [error] [client 188.187.0.55] File does not exist: /var/www/html/HNAP1, referer: http://209.20.69.216/
+[Mon Dec 09 23:02:34 2013] [error] [client 69.26.175.177] File does not exist: /var/www/html/pg
+[Mon Dec 09 23:02:34 2013] [error] [client 69.26.175.177] File does not exist: /var/www/html/register
+[Mon Dec 09 23:02:34 2013] [error] [client 69.26.175.177] script '/var/www/html/join.php' not found or unable to stat
+[Mon Dec 09 23:02:34 2013] [error] [client 69.26.175.177] File does not exist: /var/www/html/user
+[Mon Dec 09 23:02:36 2013] [error] [client 69.26.175.177] File does not exist: /var/www/html/community
+[Mon Dec 09 23:02:36 2013] [error] [client 69.26.175.177] File does not exist: /var/www/html/join
+[Mon Dec 09 23:02:36 2013] [error] [client 69.26.175.177] script '/var/www/html/join.php' not found or unable to stat
+[Mon Dec 09 23:02:36 2013] [error] [client 69.26.175.177] File does not exist: /var/www/html/signup
+[Mon Dec 09 23:02:36 2013] [error] [client 69.26.175.177] File does not exist: /var/www/html/member
+[Mon Dec 09 23:02:37 2013] [error] [client 69.26.175.177] script '/var/www/html/register.php' not found or unable to stat
+[Mon Dec 09 23:02:37 2013] [error] [client 69.26.175.177] script '/var/www/html/ucp.php' not found or unable to stat
+[Mon Dec 09 23:02:37 2013] [error] [client 69.26.175.177] script '/var/www/html/modules.php' not found or unable to stat
+[Mon Dec 09 23:02:38 2013] [error] [client 69.26.175.177] File does not exist: /var/www/html/user
+[Tue Dec 10 00:02:03 2013] [error] [client 199.71.214.66] script not found or unable to stat: /var/www/cgi-bin/php5
+[Tue Dec 10 00:02:04 2013] [error] [client 199.71.214.66] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Tue Dec 10 00:02:04 2013] [error] [client 199.71.214.66] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Tue Dec 10 00:02:04 2013] [error] [client 199.71.214.66] script not found or unable to stat: /var/www/cgi-bin/php4
+[Tue Dec 10 00:52:32 2013] [error] [client 185.3.134.254] File does not exist: /var/www/html/user
+[Tue Dec 10 00:52:32 2013] [error] [client 185.3.134.254] File does not exist: /var/www/html/user
+[Tue Dec 10 00:58:31 2013] [error] [client 185.5.97.100] File does not exist: /var/www/html/search, referer: http://www.google.pl
+[Tue Dec 10 05:14:06 2013] [error] [client 94.102.52.147] Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Tue Dec 10 05:14:06 2013] [error] [client 94.102.52.147] script not found or unable to stat: /var/www/cgi-bin/php
+[Tue Dec 10 05:14:06 2013] [error] [client 94.102.52.147] script not found or unable to stat: /var/www/cgi-bin/php4
+[Tue Dec 10 05:14:07 2013] [error] [client 94.102.52.147] script not found or unable to stat: /var/www/cgi-bin/php5
+[Tue Dec 10 05:14:07 2013] [error] [client 94.102.52.147] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Tue Dec 10 05:14:07 2013] [error] [client 94.102.52.147] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Tue Dec 10 11:15:25 2013] [error] [client 93.79.72.210] script '/var/www/html/admin.php' not found or unable to stat
+[Tue Dec 10 11:15:28 2013] [error] [client 93.79.72.210] File does not exist: /var/www/html/administrator
+[Tue Dec 10 11:15:37 2013] [error] [client 93.79.72.210] script '/var/www/html/wp-login.php' not found or unable to stat
+[Tue Dec 10 12:04:28 2013] [error] [client 109.163.229.59] script not found or unable to stat: /var/www/cgi-bin/php
+[Tue Dec 10 12:04:28 2013] [error] [client 109.163.229.59] script not found or unable to stat: /var/www/cgi-bin/php5
+[Tue Dec 10 12:04:29 2013] [error] [client 109.163.229.59] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Tue Dec 10 12:04:29 2013] [error] [client 109.163.229.59] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Tue Dec 10 12:04:30 2013] [error] [client 109.163.229.59] script not found or unable to stat: /var/www/cgi-bin/php4
+[Tue Dec 10 13:13:39 2013] [error] [client 194.12.74.214] File does not exist: /var/www/html/user
+[Tue Dec 10 13:14:46 2013] [error] [client 194.12.74.214] File does not exist: /var/www/html/user
+[Tue Dec 10 14:04:05 2013] [error] [client 142.4.206.229] script not found or unable to stat: /var/www/cgi-bin/php
+[Tue Dec 10 18:42:06 2013] [error] [client 119.97.198.165] File does not exist: /var/www/html/manager
