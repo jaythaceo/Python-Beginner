@@ -1,15 +1,18 @@
-#!/usr/bin/
-fileName = raw_input("Enter the file name: ")
+ 
+#!/usr/bin/env python
+import csv
+
+fileName = 'baltimore.csv'
+
 try:
 	fileName = open(fileName)
 except:
 	print "The file cannot be opened: ", fileName
 
-count = 0 
-for line in fileName:
-	count = count + 1
-print "Lines is file: ", count
+csv_reader = csv.reader(fileName)
 
-
-
-exit() 
+for row in csv_reader:
+	#names = row[12:14]
+	firstName = row[14]
+	lastname = row[12]
+	print  firstName + " " + lastname
