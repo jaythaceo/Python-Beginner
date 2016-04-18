@@ -62,3 +62,5 @@ with open('baltimore.csv') as f:
         row.update((key, conversion(row[key])) 
                    for key, conversion in field_types)
         print(row)
+
+
