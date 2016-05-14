@@ -16,7 +16,9 @@ def csv_parser(fileName):
 		print(line["FirstName"]),
 		print(line["LastName"]),
 		print(line["vAddress"]),
-		print(line["mCity"])
+		print(line["mCity"]),
+		print(line["Zip5"])
+
 
 if __name__ == '__main__':
 	with open('baltimore.csv') as fileName:
