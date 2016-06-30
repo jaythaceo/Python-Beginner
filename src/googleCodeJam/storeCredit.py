@@ -49,12 +49,13 @@ def run(filename):
       caseNumber = caseNumber + 1
 
 smallInputFile = "A-small-practice.in.txt"
-largeInputFile = "A-large-practice.in.txt"
+#largeInputFile = "A-large-practice.in.txt"
 
 print "Small File:"
 run(smallInputFile)
 print "  "
+"""
 print "Large File:"
 run(largeInputFile)
-
+"""
 

@@ -10,7 +10,7 @@ print(myNumberB)
 print(myNumberC)
 
 # String variables
-myString = "Hello"
+myString  = "Hello"
 myString2 = "GitHub"
 
 print(myString)
@@ -21,4 +21,4 @@ print(myString + " " + myString2)
 
 # Length of string
 length = len(myString)
-print 'The length of mystring',  length
+print 'The length of mystring', length
