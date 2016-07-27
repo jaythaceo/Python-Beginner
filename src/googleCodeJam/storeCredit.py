@@ -48,7 +48,7 @@ def run(filename):
       lineType = 1
       caseNumber = caseNumber + 1
 
-smallInputFile = "A-small-practice.in.txt"
+smallInputFile = "A-small-practice.In.txt"
 #largeInputFile = "A-large-practice.in.txt"
 
 print "Small File:"
@@ -58,4 +58,3 @@ print "  "
 print "Large File:"
 run(largeInputFile)
 """
-

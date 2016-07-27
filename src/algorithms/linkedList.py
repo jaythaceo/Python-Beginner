@@ -19,3 +19,11 @@ class LinkedStack:
 	def __len__(self):
 		"""Return the number of elements in the stack"""
 		return self._size
+
+	def is_empty(self):
+		"""Return True if the stack is empty"""
+		return self._size == 0
+
+	def push(self, e):
+		"""Add element e to the top of the stack"""
+		self._head
