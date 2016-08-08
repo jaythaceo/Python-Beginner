@@ -1,6 +1,5 @@
-X = [[12,7,3],
-    [4 ,5,6],
-    [7 ,8,9]]
+import numpy as np
 
-for i in X:
-	print i
+x = np.matrix([[12,7,3], [10,20,30]])
+
+print x
