@@ -4,7 +4,7 @@ import urllib2
 import json
 
 # API key
-key = "Place API key here"
+key = "8fbbbbde07d55f78"
 
 while 1:
 	zip = raw_input("Enter your zipcode ")
