@@ -1,7 +1,7 @@
 #!/usr/bin
 
 # Open file
-f = open("FileName.txt", "r")
+f = open("mbox.txt", "r")
 
 # Read file and print file
 reader = f.read()
